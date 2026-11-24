@@ -8,7 +8,7 @@ Python standard library only.
 import os
 
 LINE = (
-    "Rain in Mizzleport all morning, 13\xc2\xb0C, buses running "
+    "Rain in Mizzleport all morning, 13\u00b0C, buses running "
     "20 minutes late \u2014 the good news is, so is everyone "
     "you're late for."
 )
